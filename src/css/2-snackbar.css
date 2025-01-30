@@ -1,0 +1,26 @@
+.form {
+    max-width: 500px;
+}
+
+.form-label {
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.form-inp {
+    font-size: 25px;
+    min-width: 490px;
+}
+
+.form-field {
+    min-width: 450px;
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+.snack-btn {
+    margin-top: 15px;
+    font-size: 25px;
+}
